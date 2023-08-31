@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    background-color: #1f242d ;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-inline: 15%;
+}
+
+nav ul li a{
+    font-family: sans-serif;
+    color: #fff;
+    text-decoration-line: none;
+    list-style-type: none;
+    margin-inline: px;
+    padding: 20px;
+    
+}
+
+nav ul li a:hover{
+    color: #0ef;
+}
